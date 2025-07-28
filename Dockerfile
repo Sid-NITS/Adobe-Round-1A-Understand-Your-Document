@@ -35,4 +35,4 @@ RUN pip install --upgrade pip \
 COPY . .
 
 # Set default command
-CMD ["python", "your_script_name.py"]
+CMD ["python", "solution.py"]
